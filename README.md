@@ -72,4 +72,4 @@ MIT License - Siehe LICENSE-Datei für Details
 
 ## Autor
 
-[Peter Rubin](https://github.com/Tirggel
+[Peter Rubin](https://github.com/Tirggel)
