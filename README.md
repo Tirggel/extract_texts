@@ -44,8 +44,8 @@ Das Script erstellt immer eine JSON-Datei mit folgendem Format:
 
 1. Laden Sie das Script herunter:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Tirggel/extract_texts.git
+cd extract_texts
 ```
 
 2. Das Script ist sofort einsatzbereit - keine Installation zusätzlicher Pakete erforderlich.
@@ -66,3 +66,10 @@ Für Hilfe zur Verwendung:
 python extract_texts.py --help
 ```
 
+## Lizenz
+
+MIT License - Siehe LICENSE-Datei für Details
+
+## Autor
+
+[Peter Rubin](https://github.com/Tirggel
